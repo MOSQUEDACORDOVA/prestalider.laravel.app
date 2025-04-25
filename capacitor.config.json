@@ -1,0 +1,9 @@
+{
+  "appId": "com.prestalider.app",
+  "appName": "PrestaLider",
+  "webDir": "www",
+  "server": {
+    "url": "https://prestalider.mosquedacordova.com/", 
+    "cleartext": true  
+  }
+}

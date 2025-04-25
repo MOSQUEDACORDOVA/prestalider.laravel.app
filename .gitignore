@@ -1,0 +1,21 @@
+# Ignorar archivos de IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de Composer
+composer.lock
+
+# Ignorar archivos de NPM/Yarn
+node_modules/
+yarn.lock
+package-lock.json
+
+# Ignorar archivos de despliegue
+.env.production
+.env.staging

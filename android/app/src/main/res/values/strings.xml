@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PrestaLider</string>
+    <string name="title_activity_main">PrestaLider</string>
+    <string name="package_name">com.prestalider.app</string>
+    <string name="custom_url_scheme">com.prestalider.app</string>
+</resources>
